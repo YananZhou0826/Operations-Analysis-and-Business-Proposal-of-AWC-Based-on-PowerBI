@@ -1,0 +1,2 @@
+# Operations-Analysis-and-Business-Proposal-of-AWC-Based-on-PowerBI
+• Constructed a relational database of AWC’s production and sales data and illustrated features of products and customers by PowerBI • Visualized data from the perspective of products and sales to figure out product erosion of new product, explore potential customers and analyze the effect of brand promotion combined with marketing strategies with regional characteristics V
